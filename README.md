@@ -1,8 +1,16 @@
+<div align="center">
+
 # usbwtf
+
+![Linux](https://img.shields.io/badge/made%20for-linux-yellow?logo=linux&logoColor=ffffff)
+![Go](https://img.shields.io/badge/go%20go%20go-blue?logo=go&logoColor=ffffff)
+[![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/license/mit)
 
 USB port inspector for Linux®.
 
 Reads from sysfs — no root required, no external dependencies, pure Go.
+
+</div>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
