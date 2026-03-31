@@ -6,7 +6,7 @@ Reads from sysfs — no root required, no external dependencies, pure Go.
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                          USB WTF — Port Inspector                           ║
+║                          USB WTF — Port Inspector                            ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
   v0.1.0 (2026-03-31) — https://github.com/c0m4r/usbwtf
 
